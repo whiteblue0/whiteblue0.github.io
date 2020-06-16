@@ -10,15 +10,15 @@ exclude:
 
 # Site settings
 title: whiteblue
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "임현수의 기술 저장소입니다."
 email: ihs3583@gmail.com
 name: Hyeonsoo Im
 description: >
-  임현수의 기술 저장소입니다.
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "whiteblue0.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "whiteblue0.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
