@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: whiteblue
+title: 임현수
 subtitle: "임현수의 기술 저장소입니다."
 email: ihs3583@gmail.com
 name: Hyeonsoo Im
@@ -77,23 +77,23 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
+    icon: ""
+    username: ""
+    url: ""
+    desc: ""
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/whiteblue0
     desc: Fork me on GitHub
     share: false
 
@@ -102,7 +102,7 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
